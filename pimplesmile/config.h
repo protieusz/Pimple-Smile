@@ -83,7 +83,7 @@
 //#    define RP_SPI_USE_SPI0 TRUE
 //#    undef RP_SPI_USE_SPI1
 //#    define RP_SPI_USE_SPI1 FALSE
-#    define SPI_DRIVER SPID0
+#    define SPI_DRIVER SPID1
 
 //#    define SPI_SCK_PIN GP22 //6
 //#    define SPI_MISO_PIN GP24 //4
