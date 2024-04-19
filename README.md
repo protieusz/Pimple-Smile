@@ -17,6 +17,8 @@ Full Production
 ![IMG_1606](https://github.com/protieusz/Pimple-Smile/assets/118025702/362962a6-6e69-4765-87fc-a26cdf907838)
 ![IMG_1608](https://github.com/protieusz/Pimple-Smile/assets/118025702/17b68e7c-ceb5-448d-8710-58f41f714dc5)
 ![IMG_1598](https://github.com/protieusz/Pimple-Smile/assets/118025702/66f78173-af75-4240-b318-2f9984084c78)
+![IMG_1896](https://github.com/protieusz/Pimple-Smile/assets/118025702/264d7c00-b06a-4180-9ee9-78bdd7cdc90e)
+![IMG_1895](https://github.com/protieusz/Pimple-Smile/assets/118025702/e881bbe6-a8c8-4eef-9ab7-4b62d50df82e)
 ![IMG_1595](https://github.com/protieusz/Pimple-Smile/assets/118025702/636f24a9-d965-4d57-985d-eb0cbba1021b)
 ![IMG_1599](https://github.com/protieusz/Pimple-Smile/assets/118025702/4221601e-5d11-4191-8d33-1f1280f7fb97)
 ![IMG_1597](https://github.com/protieusz/Pimple-Smile/assets/118025702/44c08358-fc8d-40db-a5c7-843233169f24)
