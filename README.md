@@ -10,8 +10,8 @@ As for the PCBs, you can DM me on Discord and the cost for PCBs will be in DM. I
 
 Full Production
 
-![B45F2E86-E520-4D3F-AB1D-F5F5C0AD66DA](https://github.com/protieusz/Pimple-Smile/assets/118025702/e8e41a62-4083-4ee0-a423-fc1859ff0fa2)
 ![0FA4429B-2CC0-479B-98AB-1A03A988E413](https://github.com/protieusz/Pimple-Smile/assets/118025702/d1b19da9-aec7-4e1d-ba08-0e75d902f217)
+![B45F2E86-E520-4D3F-AB1D-F5F5C0AD66DA](https://github.com/protieusz/Pimple-Smile/assets/118025702/e8e41a62-4083-4ee0-a423-fc1859ff0fa2)
 ![IMG_1605](https://github.com/protieusz/Pimple-Smile/assets/118025702/319face5-16e6-4c86-a7f4-b08d30ff9b2b)
 ![IMG_1602](https://github.com/protieusz/Pimple-Smile/assets/118025702/e8e691cc-d80c-4014-bcd9-84c64a897d2e)
 ![IMG_1578](https://github.com/protieusz/Pimple-Smile/assets/118025702/e2817322-673c-49eb-9794-a3881c3bdc8e)
