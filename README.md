@@ -53,3 +53,21 @@ EasyEDA Render
 ![Screenshot 2024-03-09 at 3 33 50 PM](https://github.com/protieusz/Pimple-Smile/assets/118025702/2dee9340-fa4d-4018-b151-4b2f5587a19e)
 ![Screenshot 2024-03-09 at 3 33 20 PM](https://github.com/protieusz/Pimple-Smile/assets/118025702/7fda015a-af18-4bd7-8b2d-1938f5de22a2)
 ![Screenshot 2024-03-09 at 12 39 29 PM](https://github.com/protieusz/Pimple-Smile/assets/118025702/b680e26d-2eb3-4643-a993-6444bf9e4788)
+
+
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+NonCommercial — You may not use the material for commercial purposes.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Pimple Smile by ProtieusKeebs is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
