@@ -55,6 +55,12 @@ EasyEDA Render
 ![Screenshot 2024-03-09 at 12 39 29 PM](https://github.com/protieusz/Pimple-Smile/assets/118025702/b680e26d-2eb3-4643-a993-6444bf9e4788)
 
 
+# License
+
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+
+You are free to:
+
 Share — copy and redistribute the material in any medium or format
 
 Adapt — remix, transform, and build upon the material
