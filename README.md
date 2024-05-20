@@ -6,7 +6,7 @@ Pimple Smile will use a Waveshare RP2040 Zero mcu following its predecessor, the
 
 For the top case, I have cut 0.2mm at the sensor area for some extra tolerance so you can push the sensor lens up a little bit if the ball is not moving and tap the sensor plastic with tape from the bottom.  This has not been fully tested. But print at your own risk. Some PLA printers have better accuracy than others. 
 
-As for the PCBs, you can DM me on Discord and the cost for PCBs will be in DM. I am in the 40% Keyboard and MechWild Discord channel. Thanks.
+Even though these files are public. Please use them as your own risk. No support will be given.
 
 Full Production
 
