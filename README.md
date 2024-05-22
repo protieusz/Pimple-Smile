@@ -8,7 +8,9 @@ For the top case, I have cut 0.2mm at the sensor area for some extra tolerance s
 
 Even though these files are public. Please use them as your own risk. No support will be given.
 
-Full Production
+# Featured On https://kbd.news/Pimple-Smile-2378.html
+
+# Full Production
 
 ![0FA4429B-2CC0-479B-98AB-1A03A988E413](https://github.com/protieusz/Pimple-Smile/assets/118025702/d1b19da9-aec7-4e1d-ba08-0e75d902f217)
 ![B45F2E86-E520-4D3F-AB1D-F5F5C0AD66DA](https://github.com/protieusz/Pimple-Smile/assets/118025702/e8e41a62-4083-4ee0-a423-fc1859ff0fa2)
