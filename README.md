@@ -1,5 +1,5 @@
 # Pimple-Smile
-Pimple Smile, an upgraded Smile36 with a 25mm integrated trackball with no encoders. Full PLA designed case with integrated 5mm thick switch plate. Integrated trackball support to the switch plate.
+Pimple Smile, an upgraded [Smile36](https://github.com/protieusz/Smile36-PCB-Version) with a 25mm integrated trackball with no encoders. Full PLA designed case with integrated 5mm thick switch plate. Integrated trackball support to the switch plate.
 
 ~~Pimple Smile will be close source as this design will go on sale.~~  PCB is currently in transit for prototype build.
 Pimple Smile will use a Waveshare RP2040 Zero mcu following its predecessor, the Smile36. WS RP2040 Zero will be smd solder onto the keyboard PCB. The footprints allows for thru hole soldering but I have not tested out if the soldered mcu with the headers will enough room to fit the case. Test out at your own risk.
