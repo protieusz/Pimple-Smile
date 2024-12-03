@@ -4,7 +4,7 @@ Pimple Smile, an upgraded [Smile36](https://github.com/protieusz/Smile36-PCB-Ver
 ~~Pimple Smile will be close source as this design will go on sale.~~  PCB is currently in transit for prototype build.
 Pimple Smile will use a Waveshare RP2040 Zero mcu following its predecessor, the Smile36. WS RP2040 Zero will be smd solder onto the keyboard PCB. The footprints allows for thru hole soldering but I have not tested out if the soldered mcu with the headers will enough room to fit the case. Test out at your own risk.
 
-For the top case, I have cut 0.2mm at the sensor area for some extra tolerance so you can push the sensor lens up a little bit if the ball is not moving and tap the sensor plastic with tape from the bottom.  This has not been fully tested. But print at your own risk. Some PLA printers have better accuracy than others. Mill Max is not recommended since the gap will interfere with the trackball sensor. Top case switch square hole notches were done by Plant of MechWild.
+For the top case, I have cut 0.2mm at the sensor area for some extra tolerance so you can push the sensor lens up a little bit if the ball is not moving and tap the sensor plastic with tape from the bottom.  This has not been fully tested. But print at your own risk. Some PLA printers have better accuracy than others. ~~Mill Max is not recommended since the gap will interfere with the trackball sensor.~~ You can Mill Max it and no issues with the trackball sensor. I have tested it. Top case switch square hole notches were done by Plant of MechWild.
 
 Even though these files are public. Please use them as your own risk. No support will be given.
 
